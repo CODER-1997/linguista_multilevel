@@ -66,6 +66,12 @@ class Profile extends StatelessWidget {
                           ),
                           GestureDetector(
                               onTap: () {
+                                Get.snackbar(
+                                  'Message',
+                                  "Soon",
+                                  snackPosition: SnackPosition.BOTTOM,
+                                  duration: Duration(seconds: 2),
+                                );
                                },
                               child: SettingsItem(
                                   icon: Icons.logout,
@@ -75,6 +81,12 @@ class Profile extends StatelessWidget {
                           ),
                           GestureDetector(
                               onTap: () {
+                                Get.snackbar(
+                                  'Message',
+                                  "Soon",
+                                  snackPosition: SnackPosition.BOTTOM,
+                                  duration: Duration(seconds: 2),
+                                );
                                },
                               child: SettingsItem(
                                   icon: Icons.delete,
