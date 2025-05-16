@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "285611018407",
+    "project_id": "linguista-102d7",
+    "storage_bucket": "linguista-102d7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285611018407:android:ef8e73d1f1a4050b9df382",
+        "android_client_info": {
+          "package_name": "beki.app.linguista_teacher_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO3JLVM0q5TJjaLhqL36jdR7BxEluUoQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
